@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/arrow">
+        <file>down.png</file>
+        <file>up.png</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>calc.ico</file>
+    </qresource>
+</RCC>
